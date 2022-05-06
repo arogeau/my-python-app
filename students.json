@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pierre",
+    "cars": [
+      "renault",
+      "tata"
+    ]
+  },
+  {
+    "name": "Laury",
+    "cars": [
+      "mini"
+    ]
+  }
+]

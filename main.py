@@ -10,7 +10,7 @@ def alex_method(name):
 if __name__ == '__main__':
     # TODO: Fix Bug
     print("Pycharm is Awesome")
-    print("Hello")
+    print("Hello there")
     name = "Ahmed"
     print(name)
     print(add_numbers(2, 2))
